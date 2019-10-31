@@ -12,7 +12,7 @@
     "dotenv": "^6.2.0",
     "express": "^4.16.3",
     "generate-maze": "^0.2.0",
-    "mongoose": "^5.1.6",
+    "mongoose": "^5.7.5",
     "request": "^2.87.0",
     "sequelize": "^5.8.6",
     "socket.io": "^2.1.0",
